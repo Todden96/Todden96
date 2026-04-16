@@ -1,4 +1,6 @@
-## Hi there 👋
+- 👋 Hi there, I currently work as a Data Engineer
+- 🪛 dbt and databricks are two tools I work with every day
+- 🧰 I have previously worked with data analysis, machine learning, operations research and statistics in Python and R as a Data Scientist
 
 <!--
 **Todden96/Todden96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
